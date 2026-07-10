@@ -1,0 +1,22 @@
+# Compiled binaries
+server_3456
+*.out
+*.o
+
+# Logs
+*.log
+
+# Runtime/user data
+auth.txt
+data/
+/srv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor/OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
